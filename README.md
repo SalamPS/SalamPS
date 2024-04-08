@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Salam!
 
-I'm a passionate Web Developer with a love for MERN Stack.
+I'm a Web Developer with a love for MERN Stack. Also work with React Native and Arduino.
 
 ## 💡 What I Bring to the Table
 
