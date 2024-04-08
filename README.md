@@ -4,8 +4,9 @@ I'm a passionate Web Developer with a love for MERN Stack.
 
 ## 💡 What I Bring to the Table
 
-- NextJS Fullstack
-- JhonnyFive Arduino
+- NextJS @WebApp
+- React Native @MobileApp
+- JhonnyFive @Arduino
 
 ## 📫 Let's Connect
 
