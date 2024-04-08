@@ -15,7 +15,7 @@ I'm a Web Developer with a love for MERN Stack. Also work with React Native and 
 
 ## 🌱 Always Learning
 
-I'm constantly exploring new technologies and tools. Currently, I'm diving deep into JhonnyFive Arduino and Python.
+I'm constantly exploring new technologies and tools. Currently, I'm diving deep into Python and React Native.
 
 Bismillah. I will finish my GPS Based Tractor before Microsoft did
 
