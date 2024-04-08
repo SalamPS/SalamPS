@@ -19,4 +19,4 @@ I'm constantly exploring new technologies and tools. Currently, I'm diving deep 
 
 Bismillah. I will finish my GPS Based Tractor before Microsoft did
 
-Let's collaborate and create something amazing! 🚀✨
+Let's connect and create something amazing! 🚀✨
