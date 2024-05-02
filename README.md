@@ -15,8 +15,7 @@ I'm a Web Developer with a love for MERN Stack. Also work with React Native and 
 
 ## 🌱 Always Learning
 
-I'm constantly exploring new technologies and tools. Currently, I'm diving deep into Python and React Native.
-
+I'm constantly exploring new technologies and tools. Currently, I'm diving deep into Python Machine Learning.
 Bismillah. I will finish my GPS Based Tractor before Microsoft did
 
 Let's connect and create something amazing! 🚀✨
