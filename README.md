@@ -1,12 +1,11 @@
 # 👋 Hello, I'm Salam!
 
-I'm a Web Developer with a love for MERN Stack. Also work with React Native and Arduino.
+I'm a Web Developer with a love for MERN Stack. Also work with React Native and IoTs.
 
 ## 💡 What I Bring to the Table
 
 - NextJS @WebApp
 - React Native @MobileApp
-- JhonnyFive @Arduino
 
 ## 📫 Let's Connect
 
