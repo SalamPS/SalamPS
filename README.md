@@ -6,18 +6,20 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 ## 💡 What I Bring to the Table
 
-- NextJS @WebApp
-- React Native @MobileApp
+- @WebApp
+  
+![React.js](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=58c4dc)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+- @WebApp
+  
+![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=58c4dc)
+
+![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
-
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React Native](https://img.icons8.com/color/48/000000/react-native.png)
-
-![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect
 
