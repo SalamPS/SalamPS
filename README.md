@@ -25,3 +25,7 @@ I'm constantly exploring new technologies and tools. Currently, I'm diving deep 
 Bismillah. I will finish my Automated Drilling Machine as my Undergraduate Thesis
 
 Let's connect and create something amazing! 🚀✨
+
+## 📊 Git Stats
+
+![SalamPS's Stats](https://github-readme-stats.vercel.app/api?username=SalamPS&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
