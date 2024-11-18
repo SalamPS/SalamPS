@@ -26,6 +26,4 @@ Let's connect and create something amazing! 🚀✨
 
 ## 📊 My Stats
 
-![SalamPS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalamPS&theme=vue-dark&hide_border=true)
-
-![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![SalamPS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalamPS&theme=vue-dark&hide_border=true) ![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
