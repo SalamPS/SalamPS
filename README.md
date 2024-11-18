@@ -15,6 +15,7 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Native](https://img.icons8.com/color/48/000000/react-native.png)
 
 ![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
