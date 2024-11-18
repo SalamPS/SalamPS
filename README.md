@@ -4,8 +4,6 @@ Ever since I wrote my first line of code, I've been deeply passionate about web 
 
 My enthusiasm for technology doesn’t stop there. As I delved deeper into the world of development, I became increasingly fascinated by the idea of bridging the gap between the digital and physical worlds. This curiosity led me to explore Python Machine Learning and IoT. I'm striving to bring the best of AI to human life by combining real-world machines with the power of the internet.
 
-One of my current research projects is an Automated Drilling Machine. 🤖 While it's a technology that has been explored before, I'm working on a tailored solution to support my family's business. This project embodies my commitment to pushing boundaries and creating solutions that make a real impact in the real world.
-
 ## 💡 What I Bring to the Table
 
 - NextJS @WebApp
