@@ -11,6 +11,8 @@ One of my current research projects is an Automated Drilling Machine. 🤖 While
 - NextJS @WebApp
 - React Native @MobileApp
 
+![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/salam-pararta/)
@@ -23,7 +25,3 @@ I'm constantly exploring new technologies and tools. Currently, I'm diving deep 
 Bismillah. I will finish my Automated Drilling Machine as my Undergraduate Thesis
 
 Let's connect and create something amazing! 🚀✨
-
-## 📊 My Stats
-
-![SalamPS's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SalamPS&theme=vue-dark&hide_border=true) ![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
