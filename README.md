@@ -11,7 +11,7 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 ![React.js](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=58c4dc)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
-- @WebApp
+- @MobileApp
   
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=58c4dc)
 
