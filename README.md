@@ -6,7 +6,7 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 ## 💡 What I Bring to the Table
 
-- Workarounds:
+- Workarounds
   
 ![Next.js](https://img.shields.io/badge/Next.js-23272f?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-23272f?style=for-the-badge&logo=react&logoColor=58c4dc)
@@ -14,8 +14,6 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 ![Flutter](https://img.shields.io/badge/Flutter-23272f?style=for-the-badge&logo=flutter&logoColor=2b69fa)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-23272f?style=for-the-badge&logo=tailwindcss&logoColor=00acc1)
-
-![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 - Proficiencies
 
@@ -27,6 +25,8 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 ![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
 ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
 ![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+
+![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## 📫 Let's Connect
 
