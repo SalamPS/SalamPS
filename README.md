@@ -6,7 +6,7 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 ## 💡 What I Bring to the Table
 
-- WebApp
+- Web and Desktop App
   
 ![React.js](https://img.shields.io/badge/React.js-0d1117?style=for-the-badge&logo=react&logoColor=58c4dc)
 ![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -14,11 +14,21 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 - MobileApp
   
 ![React Native](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=58c4dc)
+![Flutter](https://img.shields.io/badge/Flutter-0d1117?style=for-the-badge&logo=flutter&logoColor=58c4dc)
+
+- Proficiencies
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Python](https://img.icons8.com/color/48/000000/python.png)
 ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png)
+
+![Firebase](https://img.icons8.com/color/48/000000/firebase.png)
+![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png)
+
+![TailwindCSS](https://img.icons8.com/color/48/000000/tailwindcss.png)
+![TailwindCSS](https://img.icons8.com/color/48/000000/bootstrap.png)
 
 ![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
