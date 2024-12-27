@@ -15,6 +15,8 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 ![Flutter](https://img.shields.io/badge/Flutter-23272f?style=for-the-badge&logo=flutter&logoColor=2b69fa)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-23272f?style=for-the-badge&logo=tailwindcss&logoColor=00acc1)
 
+![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png)
 ![Dart](https://img.icons8.com/color/48/000000/dart.png)
