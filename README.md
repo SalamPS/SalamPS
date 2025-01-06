@@ -8,19 +8,15 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 - Written Codes
 
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,dart,python,java,lua)
+![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,dart,python,java,lua&perline=50)
 
 ![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 - Workarounds
 
-![Tech Stacks](https://skillicons.dev/icons?i=react,vuejs,vite,nextjs,electron,discordjs,flutter,flask,pytorch,tensorflow)
+![Environment](https://skillicons.dev/icons?i=react,nextjs,vuejs,vite,discordjs,flask)
 
-![Environment](https://skillicons.dev/icons?i=firebase,mysql,mongodb,raspberrypi,arduino)
-
-- Work with
-
-![Environment](https://skillicons.dev/icons?i=vscode,figma,blender,sketchup,robloxstudio,postman)
+![Environment](https://skillicons.dev/icons?i=flutter,firebase,mysql,mongodb,raspberrypi,arduino)
 
 ## 📫 Let's Connect
 
@@ -34,6 +30,12 @@ I'm constantly exploring new technologies and tools. Currently, I'm diving deep 
 Bismillah. I will finish my Automated Drilling Machine as my Undergraduate Thesis
 
 Let's connect and create something amazing! 🚀✨
+
+## ⚙️ Tools
+
+Thanks for those tools that I've been using on my projects
+
+![Environment](https://skillicons.dev/icons?i=vscode,figma,blender,sketchup,robloxstudio,postman)
 
 ## 📊 Git Stats
 
