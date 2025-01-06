@@ -20,7 +20,7 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 - Work with
 
-![Environment](https://skillicons.dev/icons?i=vscode,figma,blender,robloxstudio,postman)
+![Environment](https://skillicons.dev/icons?i=vscode,figma,blender,sketchup,robloxstudio,postman)
 
 ## 📫 Let's Connect
 
