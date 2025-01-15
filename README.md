@@ -14,9 +14,9 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 - Workarounds
 
-![Environment](https://skillicons.dev/icons?i=react,nextjs,vuejs,vite,discordjs,flask)
+![Environment](https://skillicons.dev/icons?i=react,nextjs,vuejs,vite,flutter,flask)
 
-![Environment](https://skillicons.dev/icons?i=flutter,firebase,mysql,mongodb,raspberrypi,arduino)
+![Environment](https://skillicons.dev/icons?i=discordjs,firebase,mysql,mongodb,raspberrypi,arduino)
 
 ## 📫 Let's Connect
 
