@@ -27,7 +27,7 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 I'm constantly exploring new technologies and tools. Currently, I'm diving deep into Python Machine Learning.
 
-Bismillah. I will finish my Automated Drilling Machine as my Undergraduate Thesis
+Bismillah. I will finish my Automation Technology as my Undergraduate Thesis
 
 Let's connect and create something amazing! 🚀✨
 
