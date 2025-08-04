@@ -25,7 +25,7 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 ## 🌱 Always Learning
 
-I'm constantly exploring new technologies and tools. Currently, I'm diving deep into Python Machine Learning.
+I'm constantly exploring new technologies and tools. Currently, I'm diving deep into Robotics Engineering.
 
 Bismillah. I will finish my Automation Technology as my Undergraduate Thesis
 
