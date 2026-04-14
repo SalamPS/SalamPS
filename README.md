@@ -8,15 +8,15 @@ My enthusiasm for technology doesn’t stop there. As I delved deeper into the w
 
 - Written Codes
 
-![Languages](https://skillicons.dev/icons?i=html,css,javascript,typescript,cpp,dart,python,java,lua&perline=50)
+![Languages](https://skillicons.dev/icons?i=python,c,cpp,cs,typescript,javascript,dart,java,lua&perline=50)
 
-![SalamPS's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SalamPS&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+- Frameworks
+
+![Environment](https://skillicons.dev/icons?i=ros,opencv,react,nextjs,vuejs,vite,flutter,flask,discordjs)
 
 - Workarounds
 
-![Environment](https://skillicons.dev/icons?i=react,nextjs,vuejs,vite,flutter,flask,ros)
-
-![Environment](https://skillicons.dev/icons?i=discordjs,firebase,mysql,mongodb,raspberrypi,cmake,arduino)
+![Environment](https://skillicons.dev/icons?i=docker,aws,linux,raspberrypi,cmake,firebase,mysql,mongodb,arduino)
 
 ## 📫 Let's Connect
 
