@@ -36,7 +36,3 @@ Let's connect and create something amazing! 🚀✨
 Thanks for those tools that I've been using on my projects
 
 ![Environment](https://skillicons.dev/icons?i=vscode,figma,blender,sketchup,robloxstudio,postman)
-
-## 📊 Git Stats
-
-![SalamPS's Stats](https://github-readme-stats.vercel.app/api?username=SalamPS&theme=react&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
